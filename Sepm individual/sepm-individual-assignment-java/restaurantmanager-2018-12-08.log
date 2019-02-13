@@ -1,0 +1,38 @@
+690  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1624 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1710 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:22.626517, pid=null, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:22.629064, isProductDeleted=false, amount=null}
+1850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:22.626517, pid=null, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:22.629064, isProductDeleted=false, amount=null}
+2466 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:22.626517, pid=6, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:22.629064, isProductDeleted=false, amount=null}
+2467 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:22.626517, pid=6, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:22.629064, isProductDeleted=false, amount=null}
+2478 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2479 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+4056 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+7130 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+12884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+12884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:33.804864, pid=null, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:33.804926, isProductDeleted=false, amount=null}
+12885 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:33.804864, pid=null, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:33.804926, isProductDeleted=false, amount=null}
+12887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:33.804864, pid=7, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:33.804926, isProductDeleted=false, amount=null}
+12887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:33.804864, pid=7, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:33.804926, isProductDeleted=false, amount=null}
+12889 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+14634 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+16850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+16850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:37.770837, pid=null, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:37.770885, isProductDeleted=false, amount=null}
+16851 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:37.770837, pid=null, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:37.770885, isProductDeleted=false, amount=null}
+16852 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:37.770837, pid=8, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:37.770885, isProductDeleted=false, amount=null}
+16853 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-08T16:32:37.770837, pid=8, category='Main dish', tax='10%', edit_date=2018-12-08T16:32:37.770885, isProductDeleted=false, amount=null}
+16855 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+18841 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.restaurant.util.DBUtil - Connection closed
+18841 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+492  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1501 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2028 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2195 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3946 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4680 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+5811 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+5813 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+6683 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+8127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+8128 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+11885 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.restaurant.util.DBUtil - Connection closed
+11885 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

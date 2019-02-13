@@ -1,0 +1,336 @@
+1464 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1474 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='100%', edit_date=null, isProductDeleted=false, amount=null}
+1743 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidTax(ProductDAOTest.java:149)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+1752 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+1758 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1759 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+1762 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1763 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='null', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+1765 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithCategoryNull(ProductDAOTest.java:120)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+1766 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+1767 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1767 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: null
+1768 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:28)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createProductWithNull(ProductDAOTest.java:58)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+1800 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+1887 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1954 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:06.927449, pid=null, category='Starter', tax='10%', edit_date=2018-12-09T01:21:06.936191, isProductDeleted=false, amount=null}
+1974 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:06.927449, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:21:06.936191, isProductDeleted=false, amount=null}
+1975 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel new edition', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:06.927449, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:21:06.936191, isProductDeleted=false, amount=null}
+1979 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener Schnitzel new edition', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:06.927449, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:21:06.936191, isProductDeleted=false, amount=null}
+2040 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2042 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2043 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2043 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Vienna', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+2046 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidCategory(ProductDAOTest.java:125)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2050 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2050 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2051 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Vienna', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+2051 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+2052 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2053 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2054 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2056 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2064 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB null
+2091 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+2091 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2092 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2092 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.074825, pid=null, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.074868, isProductDeleted=false, amount=null}
+2139 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.074825, pid=7, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.074868, isProductDeleted=false, amount=null}
+2140 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.122744, pid=7, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.074868, isProductDeleted=false, amount=null}
+2142 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.122744, pid=7, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.074868, isProductDeleted=false, amount=null}
+2145 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2147 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2159 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2160 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.130780, pid=null, category='Main dish', tax='10%', edit_date=2018-12-09T01:21:07.130904, isProductDeleted=false, amount=null}
+2165 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.130780, pid=8, category='Main dish', tax='10%', edit_date=2018-12-09T01:21:07.130904, isProductDeleted=false, amount=null}
+2182 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2185 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2190 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2190 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+2192 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.updateProductWithInvalidInput(ProductDAOTest.java:172)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2192 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2222 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2223 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='null', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+2225 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+2225 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2227 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2227 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='this is description', nettoPrice=-1, bruttoPrice=-1.1, timeOfCreation=null, pid=null, category='Main dish', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+2234 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidNettoPrice(ProductDAOTest.java:65)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47)
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
+2236 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2236 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2236 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted null
+2240 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exeption while deleting Products
+2240 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2242 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2243 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.225257, pid=null, category='Main dish', tax='10%', edit_date=2018-12-09T01:21:07.225305, isProductDeleted=false, amount=null}
+2247 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.225257, pid=9, category='Main dish', tax='10%', edit_date=2018-12-09T01:21:07.225305, isProductDeleted=false, amount=null}
+2248 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2249 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.225257, pid=9, category='Main dish', tax='10%', edit_date=2018-12-09T01:21:07.225305, isProductDeleted=false, amount=null}
+2250 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.225257, pid=10, category='Main dish', tax='10%', edit_date=2018-12-09T01:21:07.225305, isProductDeleted=false, amount=null}
+2252 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2253 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2254 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2254 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.236896, pid=null, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.236958, isProductDeleted=false, amount=null}
+2255 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.236896, pid=11, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.236958, isProductDeleted=false, amount=null}
+2262 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2262 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.236896, pid=11, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.236958, isProductDeleted=false, amount=null}
+2263 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:07.236896, pid=11, category='Starter', tax='10%', edit_date=2018-12-09T01:21:07.236958, isProductDeleted=false, amount=null}
+2265 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2266 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+2266 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+2267 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='101%', edit_date=null, isProductDeleted=false, amount=null}
+2269 [main] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+2269 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+1034 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1060 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:29.686754, pid=null, category='Starter', tax='10%', edit_date=2018-12-09T01:21:29.689280, isProductDeleted=false, amount=null}
+1248 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:29.686754, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:21:29.689280, isProductDeleted=false, amount=null}
+1366 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1376 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:29.686754, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:21:29.689280, isProductDeleted=false, amount=null}
+1393 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:21:29.686754, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:21:29.689280, isProductDeleted=false, amount=null}
+1397 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1400 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+1308 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1335 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:22:26.207959, pid=null, category='Starter', tax='10%', edit_date=2018-12-09T01:22:26.210208, isProductDeleted=false, amount=null}
+1571 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:22:26.207959, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:22:26.210208, isProductDeleted=false, amount=null}
+1608 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1609 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:22:26.207959, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:22:26.210208, isProductDeleted=false, amount=null}
+1612 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-09T01:22:26.207959, pid=6, category='Starter', tax='10%', edit_date=2018-12-09T01:22:26.210208, isProductDeleted=false, amount=null}
+1615 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1618 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+921  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+2470 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+3498 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+3499 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+5581 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+8227 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+10225 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+10230 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+10952 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+12325 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+12327 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+14859 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+14871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+14871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+14871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+14871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+14873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14875 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+15625 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+15639 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+15639 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+15640 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+15640 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+15640 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+15641 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+18871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+18871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+18871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+18872 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18872 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18872 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+18876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+18876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+18876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+18876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18879 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18879 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18879 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+22217 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.restaurant.util.DBUtil - Connection closed
+22217 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

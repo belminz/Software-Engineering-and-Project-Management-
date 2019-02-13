@@ -1,0 +1,11 @@
+622  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1610 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2161 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2162 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3373 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+15695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+15700 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+16438 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+25032 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+25034 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB

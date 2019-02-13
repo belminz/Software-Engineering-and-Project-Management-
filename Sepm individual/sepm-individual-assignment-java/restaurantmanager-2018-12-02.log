@@ -1,0 +1,30 @@
+380  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1686 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3650 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+504  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1275 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1739 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3179 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+552  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+7449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+12283 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+1271 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1309 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:37.486153, pid=null, category='Starter', tax='10%', edit_date=2018-12-02T21:53:37.492336, isProductDeleted=false, amount=null}
+1439 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:37.486153, pid=6, category='Starter', tax='10%', edit_date=2018-12-02T21:53:37.492336, isProductDeleted=false, amount=null}
+1469 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1470 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:37.486153, pid=6, category='Starter', tax='10%', edit_date=2018-12-02T21:53:37.492336, isProductDeleted=false, amount=null}
+1487 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:37.486153, pid=6, category='Starter', tax='10%', edit_date=2018-12-02T21:53:37.492336, isProductDeleted=false, amount=null}
+1496 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1499 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+1107 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+1162 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:53.485421, pid=null, category='Starter', tax='10%', edit_date=2018-12-02T21:53:53.490567, isProductDeleted=false, amount=null}
+1382 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:53.485421, pid=6, category='Starter', tax='10%', edit_date=2018-12-02T21:53:53.490567, isProductDeleted=false, amount=null}
+1413 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1415 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:53.485421, pid=6, category='Starter', tax='10%', edit_date=2018-12-02T21:53:53.490567, isProductDeleted=false, amount=null}
+1417 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-02T21:53:53.485421, pid=6, category='Starter', tax='10%', edit_date=2018-12-02T21:53:53.490567, isProductDeleted=false, amount=null}
+1421 [main] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1425 [main] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!

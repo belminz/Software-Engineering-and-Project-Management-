@@ -1,0 +1,797 @@
+628  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1597 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2269 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2270 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3492 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+6562 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+6588 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+6588 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+6590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+6591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+6592 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+6593 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+13557 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+13566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+13566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+13566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+13566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+13567 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13567 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13567 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13569 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13569 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13569 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13569 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+14652 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+14665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+14665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+14666 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14666 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14666 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+14668 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+23517 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+23517 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+23517 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+23518 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23518 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23519 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23519 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23519 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23519 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23519 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+23523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+23523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+23523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+23524 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23524 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23524 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23524 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23525 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23525 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23525 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+23526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+23526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+37537 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+37547 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+37547 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+37547 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+37548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+37548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+37548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+37548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+39649 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+39660 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+39660 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+39662 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+39662 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+39664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+39664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+39665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+51972 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+748  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1656 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2522 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+4138 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+6411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+6432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+6432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+6433 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+6435 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+6435 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+6437 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+8366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+8968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On delete button clicked
+9880 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - ERROR: No order to delete is selected
+10928 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On delete button clicked
+10931 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Product successfully removed from order table
+12892 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Back button clicked
+14308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+14320 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+14321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+14321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+14323 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+15511 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+17173 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+18288 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+19113 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+19123 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+19123 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+19124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+19124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+19124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+19125 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+19125 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+19126 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+19126 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+19126 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+19127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+19127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+19127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+19127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Saving order:Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:36:44.297427, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=3, orderId=null, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+19183 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:36:44.297427, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=3, orderId=null, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+19185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:36:44.297427, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=3, orderId=null, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+19185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order is saved:Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:36:44.297427, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=3, orderId=null, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+19186 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}
+19186 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}
+19188 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}
+19188 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}
+19645 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order saved to OrderTable successfully
+19645 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+20241 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Back button clicked
+21126 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+21135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+21135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+21135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+21135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+21136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+21136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+21136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+21136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+21137 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+21137 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+21137 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+21137 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+21138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+21138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+21138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+21138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+21139 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+21917 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+21929 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+21929 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+21930 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+21930 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+21930 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+21932 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+23161 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+23791 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:36:48.967065, status='billed', billDate=2018-10-25T16:36:48.967097, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+23793 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:36:48.967065, status='billed', billDate=2018-10-25T16:36:48.967097, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+23794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order billed
+23794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:36:48.967065, status='billed', billDate=2018-10-25T16:36:48.967097, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+23794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:36:48.967065, status='billed', billDate=2018-10-25T16:36:48.967097, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+23794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:36:48.967065, status='billed', billDate=2018-10-25T16:36:48.967097, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}]}
+23795 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+23795 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}
+23796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}
+23796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=7, pid=3, orderId=7, name='Hamburger', bruttoPrice=11.0, amount=1}
+24090 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+24091 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+24091 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+24091 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+24091 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+24091 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+24092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+24092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+24092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+24092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+24092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+24093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+24093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+24093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+24093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+24758 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+24766 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+24766 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+24766 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+24767 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+24767 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+24767 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+24768 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+24768 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+24768 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+29509 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+29512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+29512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+29512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+29512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+29513 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+29513 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+29513 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+29513 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+29514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+29514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+29514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+29514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+29514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+29514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+29515 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+31156 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+31167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+31167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+31168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+31169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+31170 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+31170 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+31171 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+32534 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+462  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1352 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2000 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2001 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3313 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+10710 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+12773 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+13526 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - Name and netto have to be entered
+15037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+15571 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - Category empty!
+17100 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+17721 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - tax empty
+19167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+19177 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='he', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-25T16:43:57.767564, pid=null, category='Starter', tax='10%', edit_date=2018-10-25T16:43:57.769535, isProductDeleted=false, amount=null}
+19208 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='he', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-25T16:43:57.767564, pid=null, category='Starter', tax='10%', edit_date=2018-10-25T16:43:57.769535, isProductDeleted=false, amount=null}
+19210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='he', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-25T16:43:57.767564, pid=6, category='Starter', tax='10%', edit_date=2018-10-25T16:43:57.769535, isProductDeleted=false, amount=null}
+19211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='he', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-25T16:43:57.767564, pid=6, category='Starter', tax='10%', edit_date=2018-10-25T16:43:57.769535, isProductDeleted=false, amount=null}
+19211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Successfully added!
+19211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+19213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+21007 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+27953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+27953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='he', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-25T16:44:06.545737, pid=6, category='Starter', tax='10%', edit_date=2018-10-25T16:44:06.545789, isProductDeleted=false, amount=null}
+27956 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='he', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-25T16:44:06.545737, pid=6, category='Starter', tax='10%', edit_date=2018-10-25T16:44:06.545789, isProductDeleted=false, amount=null}
+27956 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+27956 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+27956 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+27958 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+28974 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+31376 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+31377 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+31379 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+441  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3295 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5107 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+10164 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+10166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+10748 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+16163 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+16191 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Pommes', description='Mit ketchup', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-10-25T16:53:19.668250, pid=2, category='Starter', tax='20%', edit_date=2018-10-25T16:53:19.670102, isProductDeleted=false, amount=null}
+16237 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Pommes', description='Mit ketchup', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-10-25T16:53:19.668250, pid=2, category='Starter', tax='20%', edit_date=2018-10-25T16:53:19.670102, isProductDeleted=false, amount=null}
+16238 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+16238 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+16238 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+16240 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+16887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+19387 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+19387 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-25T16:53:22.866442, pid=3, category='Starter', tax='10%', edit_date=2018-10-25T16:53:22.866493, isProductDeleted=false, amount=null}
+19388 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-25T16:53:22.866442, pid=3, category='Starter', tax='10%', edit_date=2018-10-25T16:53:22.866493, isProductDeleted=false, amount=null}
+19389 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+19389 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+19389 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+19390 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+20531 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+22310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+22311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-25T16:53:25.790105, pid=3, category='Dessert', tax='10%', edit_date=2018-10-25T16:53:25.790141, isProductDeleted=false, amount=null}
+22312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-25T16:53:25.790105, pid=3, category='Dessert', tax='10%', edit_date=2018-10-25T16:53:25.790141, isProductDeleted=false, amount=null}
+22312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+22312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+22312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+22313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+23682 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+632  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1347 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1862 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3069 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+14603 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+15991 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Edit order clicked
+16008 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+16008 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+16009 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+16011 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+16011 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+16013 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+17826 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+17950 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+20228 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+21520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=null, tableNumber=12, timeOfCreation=2018-10-25T16:56:31.565206, status='billed', billDate=2018-10-25T16:56:31.566910, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+21580 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - SQL EXCEPTION while billing order
+21581 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - null
+21581 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Saving order:Order{orderId=null, tableNumber=12, timeOfCreation=2018-10-25T16:56:31.565206, status='billed', billDate=2018-10-25T16:56:31.566910, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+21581 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=12, timeOfCreation=2018-10-25T16:56:31.565206, status='billed', billDate=2018-10-25T16:56:31.566910, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+21584 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:56:31.565206, status='billed', billDate=2018-10-25T16:56:31.566910, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+21584 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order is saved:Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:56:31.565206, status='billed', billDate=2018-10-25T16:56:31.566910, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+21584 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=2}
+21584 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=2}
+21587 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=2}
+21588 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=7, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=2}
+22551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+24452 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+24454 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+25177 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+25195 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+25195 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+25195 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+25196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+25196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+25196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+25197 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+25197 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+25199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+26219 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+26233 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+26233 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+26234 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+26234 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+26235 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+26236 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+26236 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+37261 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+483  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1266 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1846 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1847 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3183 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4322 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+5673 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Edit order clicked
+5706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+5706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+5707 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+5708 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+5708 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+5710 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+9428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+10006 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+11086 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+11968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+11979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+11980 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+11981 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11981 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11982 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11982 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11983 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11983 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11983 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11984 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11984 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11984 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11984 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+11985 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Saving order:Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:57:47.550931, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+12036 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:57:47.550931, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+12038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:57:47.550931, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+12038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order is saved:Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T16:57:47.550931, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+12038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+12038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+12040 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+12041 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+12341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order saved to OrderTable successfully
+12342 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+12997 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Back button clicked
+13936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+13938 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+14557 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+14563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+14564 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+14564 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+14564 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+14564 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14565 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14565 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14565 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14565 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14565 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14567 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14567 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+15768 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+15778 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+15778 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+15779 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+15779 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+15779 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+15780 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+17209 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+17752 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:57:53.325146, status='billed', billDate=2018-10-25T16:57:53.325181, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+17754 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:57:53.325146, status='billed', billDate=2018-10-25T16:57:53.325181, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+17754 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order billed
+17754 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:57:53.325146, status='billed', billDate=2018-10-25T16:57:53.325181, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+17754 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:57:53.325146, status='billed', billDate=2018-10-25T16:57:53.325181, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+17755 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-25T16:57:53.325146, status='billed', billDate=2018-10-25T16:57:53.325181, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+17755 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+17755 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+17756 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+17757 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=7, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+17979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+17979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+17979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+17979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+17979 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+17980 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+17980 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+17980 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+17980 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+17980 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+17981 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+17981 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+17981 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+17982 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+17982 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+18897 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+18905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+18905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+18905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+18906 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18906 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18906 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+18907 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+18907 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+18907 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+20161 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+20172 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+20173 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+20173 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+20174 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+20175 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+20175 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+20176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+21064 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+467  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1114 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1581 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2921 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+7870 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+10768 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+10780 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Snitzel', description='Mit kartofel', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-25T17:00:14.952859, pid=1, category='Dessert', tax='20%', edit_date=2018-10-25T17:00:14.955147, isProductDeleted=false, amount=null}
+10819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener Snitzel', description='Mit kartofel', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-25T17:00:14.952859, pid=1, category='Dessert', tax='20%', edit_date=2018-10-25T17:00:14.955147, isProductDeleted=false, amount=null}
+10819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+10819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+10819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+10822 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+12328 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+426  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1659 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1660 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3193 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+7209 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+7220 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Snitzel', description='Mit kartofel', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-25T17:03:46.562050, pid=1, category='Dessert', tax='20%', edit_date=2018-10-25T17:03:46.563956, isProductDeleted=false, amount=null}
+7253 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener Snitzel', description='Mit kartofel', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-25T17:03:46.562050, pid=1, category='Dessert', tax='20%', edit_date=2018-10-25T17:03:46.563956, isProductDeleted=false, amount=null}
+7253 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+7253 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+7254 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+7256 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+8107 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+9921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+9922 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-10-25T17:03:49.266011, pid=4, category='Main dish', tax='20%', edit_date=2018-10-25T17:03:49.266037, isProductDeleted=false, amount=null}
+9922 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-10-25T17:03:49.266011, pid=4, category='Main dish', tax='20%', edit_date=2018-10-25T17:03:49.266037, isProductDeleted=false, amount=null}
+9923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+9923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+9923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+9924 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+11593 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+15954 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+19336 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - ERROR: Not a numeric value set for Netto price or not integer value set.
+20297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+21788 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - ERROR: Not a numeric value set for Netto price or not integer value set.
+24921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+25497 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - ERROR: Not a numeric value set for Netto price or not integer value set.
+26156 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+26162 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+26880 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+31595 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+31596 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='12', description='', nettoPrice=12, bruttoPrice=14.4, timeOfCreation=2018-10-25T17:04:10.940207, pid=null, category='Starter', tax='20%', edit_date=2018-10-25T17:04:10.940244, isProductDeleted=false, amount=null}
+31596 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='12', description='', nettoPrice=12, bruttoPrice=14.4, timeOfCreation=2018-10-25T17:04:10.940207, pid=null, category='Starter', tax='20%', edit_date=2018-10-25T17:04:10.940244, isProductDeleted=false, amount=null}
+31598 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='12', description='', nettoPrice=12, bruttoPrice=14.4, timeOfCreation=2018-10-25T17:04:10.940207, pid=6, category='Starter', tax='20%', edit_date=2018-10-25T17:04:10.940244, isProductDeleted=false, amount=null}
+31598 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='12', description='', nettoPrice=12, bruttoPrice=14.4, timeOfCreation=2018-10-25T17:04:10.940207, pid=6, category='Starter', tax='20%', edit_date=2018-10-25T17:04:10.940244, isProductDeleted=false, amount=null}
+31598 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Successfully added!
+31599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+31600 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+33675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+35964 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+35966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+37363 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+44611 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+45233 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - ERROR: Zero or negative integer value used.
+48823 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+48824 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='belmin', description='', nettoPrice=5, bruttoPrice=6.0, timeOfCreation=2018-10-25T17:04:28.168060, pid=null, category='Starter', tax='20%', edit_date=2018-10-25T17:04:28.168092, isProductDeleted=false, amount=null}
+48824 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='belmin', description='', nettoPrice=5, bruttoPrice=6.0, timeOfCreation=2018-10-25T17:04:28.168060, pid=null, category='Starter', tax='20%', edit_date=2018-10-25T17:04:28.168092, isProductDeleted=false, amount=null}
+48825 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='belmin', description='', nettoPrice=5, bruttoPrice=6.0, timeOfCreation=2018-10-25T17:04:28.168060, pid=7, category='Starter', tax='20%', edit_date=2018-10-25T17:04:28.168092, isProductDeleted=false, amount=null}
+48825 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='belmin', description='', nettoPrice=5, bruttoPrice=6.0, timeOfCreation=2018-10-25T17:04:28.168060, pid=7, category='Starter', tax='20%', edit_date=2018-10-25T17:04:28.168092, isProductDeleted=false, amount=null}
+48826 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Successfully added!
+48826 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+48828 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+51166 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+527  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1383 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3499 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+10229 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+11123 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Deleting more products[Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2017-07-07T17:17:17, pid=3, category='Main dish', tax='10%', edit_date=2018-10-05T11:15:12, isProductDeleted=false, amount=null}]
+11173 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2017-07-07T17:17:17, pid=3, category='Main dish', tax='10%', edit_date=2018-10-05T11:15:12, isProductDeleted=false, amount=null}
+11176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2017-07-07T17:17:17, pid=3, category='Main dish', tax='10%', edit_date=2018-10-05T11:15:12, isProductDeleted=false, amount=null}
+11176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Selected products are deleted successfully{}
+11176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+11178 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+11179 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product deleted!
+13420 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+14319 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Deleting more products[Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-08-08T18:18:18, pid=4, category='Starter', tax='20%', edit_date=2018-12-12T15:12:16, isProductDeleted=false, amount=null}, Product{name='Salat', description='null', nettoPrice=2, bruttoPrice=2.2, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-12-12T11:12:11, isProductDeleted=false, amount=null}]
+14319 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-08-08T18:18:18, pid=4, category='Starter', tax='20%', edit_date=2018-12-12T15:12:16, isProductDeleted=false, amount=null}
+14320 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-08-08T18:18:18, pid=4, category='Starter', tax='20%', edit_date=2018-12-12T15:12:16, isProductDeleted=false, amount=null}
+14320 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Salat', description='null', nettoPrice=2, bruttoPrice=2.2, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-12-12T11:12:11, isProductDeleted=false, amount=null}
+14321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Salat', description='null', nettoPrice=2, bruttoPrice=2.2, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-12-12T11:12:11, isProductDeleted=false, amount=null}
+14321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Selected products are deleted successfully{}
+14321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+14322 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+14322 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product deleted!
+16222 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+374  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1075 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3040 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5031 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+6113 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Deleting more products[Product{name='Salat', description='null', nettoPrice=2, bruttoPrice=2.2, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-12-12T11:12:11, isProductDeleted=false, amount=null}]
+6153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Salat', description='null', nettoPrice=2, bruttoPrice=2.2, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-12-12T11:12:11, isProductDeleted=false, amount=null}
+6157 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Salat', description='null', nettoPrice=2, bruttoPrice=2.2, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-12-12T11:12:11, isProductDeleted=false, amount=null}
+6157 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Selected products are deleted successfully{}
+6157 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+6159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+6161 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product deleted!
+8086 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+8094 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+8094 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+8094 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+8095 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+8096 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8097 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8097 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+8804 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+8819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+8819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+8820 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8821 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8821 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+8823 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+10059 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+10070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=4, tableNumber=4, timeOfCreation=2014-05-05T11:11:09, status='open', billDate=2018-10-25T17:12:59.823140, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=4, pid=4, orderId=4, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+10112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=4, tableNumber=4, timeOfCreation=2014-05-05T11:11:09, status='open', billDate=2018-10-25T17:12:59.823140, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=4, pid=4, orderId=4, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+10114 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=4, tableNumber=4, timeOfCreation=2014-05-05T11:11:09, status='open', billDate=2018-10-25T17:12:59.823140, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=4, pid=4, orderId=4, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+10114 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+10114 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=4, pid=4, orderId=4, name='Chickenburger', bruttoPrice=4.8, amount=5}
+10115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=4, pid=4, orderId=4, name='Chickenburger', bruttoPrice=4.8, amount=5}
+10115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=4, pid=4, orderId=4, name='Chickenburger', bruttoPrice=4.8, amount=5}
+14206 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order saved to OrderTable successfully
+14206 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+15960 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Back button clicked
+15966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+15966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+15966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+15967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+15967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+15967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+15968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+15968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+15968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+15968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+15968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+15969 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+15969 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+15969 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+506  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1269 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2062 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2063 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3440 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5714 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+5724 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+5724 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+5724 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+5724 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+5725 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+5727 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+5728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+5728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+5728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+5729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+5729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+5729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+5729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+5730 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+5730 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+6586 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+6603 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+6603 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+6604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+6604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+6604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+6606 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+10246 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+11351 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+11363 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+11363 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+11363 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11364 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11364 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11364 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11365 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11365 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11365 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+11366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+11366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+11367 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Saving order:Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T17:13:26.413224, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=1}]}
+11417 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T17:13:26.413224, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=1}]}
+11419 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T17:13:26.413224, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=1}]}
+11419 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order is saved:Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-25T17:13:26.413224, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=1}]}
+11420 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=1}
+11420 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=1}
+11422 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=1}
+11422 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=7, pid=5, orderId=7, name='Salat', bruttoPrice=2.2, amount=1}
+13650 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order saved to OrderTable successfully
+13650 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+14718 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+14718 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+14718 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+14719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+14723 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+14723 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+14723 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+14723 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14724 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14724 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14725 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14725 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14725 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14726 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14727 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14729 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+16379 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+642  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2003 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2004 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3380 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4588 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+4599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+4599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+4599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+4599 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+4601 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+4603 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+4604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+4604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+4604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+4605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+4605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+4605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+4605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+4605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+4605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+5429 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+5448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+5448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+5449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+5450 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+5450 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+5452 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+6689 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+7946 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=1, tableNumber=1, timeOfCreation=2018-10-25T17:15:45.752943, status='billed', billDate=2018-10-25T17:15:45.755131, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}]}
+8003 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=1, tableNumber=1, timeOfCreation=2018-10-25T17:15:45.752943, status='billed', billDate=2018-10-25T17:15:45.755131, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}]}
+8003 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order billed
+8003 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=1, tableNumber=1, timeOfCreation=2018-10-25T17:15:45.752943, status='billed', billDate=2018-10-25T17:15:45.755131, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}]}
+8004 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=1, tableNumber=1, timeOfCreation=2018-10-25T17:15:45.752943, status='billed', billDate=2018-10-25T17:15:45.755131, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}]}
+8005 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=1, tableNumber=1, timeOfCreation=2018-10-25T17:15:45.752943, status='billed', billDate=2018-10-25T17:15:45.755131, payMethod='cash', billNumber=2, productsToBeAdded=[OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}]}
+8005 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+8005 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}
+8006 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}
+8007 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=1, pid=1, orderId=1, name='Wiener Snitzel', bruttoPrice=11.0, amount=2}
+8589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+8589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+8589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+8589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+8590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+8591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+8591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+9493 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+9504 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+9504 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+9504 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+9505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+9505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+9505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+9505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+9506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+10580 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+11845 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=5, tableNumber=5, timeOfCreation=2018-10-25T17:15:49.654542, status='billed', billDate=2018-10-25T17:15:49.654569, payMethod='card', billNumber=3, productsToBeAdded=[OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+11846 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=5, tableNumber=5, timeOfCreation=2018-10-25T17:15:49.654542, status='billed', billDate=2018-10-25T17:15:49.654569, payMethod='card', billNumber=3, productsToBeAdded=[OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+11847 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order billed
+11847 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=5, tableNumber=5, timeOfCreation=2018-10-25T17:15:49.654542, status='billed', billDate=2018-10-25T17:15:49.654569, payMethod='card', billNumber=3, productsToBeAdded=[OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+11847 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=5, tableNumber=5, timeOfCreation=2018-10-25T17:15:49.654542, status='billed', billDate=2018-10-25T17:15:49.654569, payMethod='card', billNumber=3, productsToBeAdded=[OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+11847 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=5, tableNumber=5, timeOfCreation=2018-10-25T17:15:49.654542, status='billed', billDate=2018-10-25T17:15:49.654569, payMethod='card', billNumber=3, productsToBeAdded=[OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}]}
+11848 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+11848 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}
+11849 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}
+11849 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=6, pid=4, orderId=5, name='Chickenburger', bruttoPrice=4.8, amount=5}
+13199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+13199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+13199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+13199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+13200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+13201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+13201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+14126 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+14134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+14134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+14134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+14134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+14135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+14135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+14136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+15098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+15108 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+15108 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+15110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+15110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+15112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+15112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+15113 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+17577 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+17586 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+17587 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+17587 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+17588 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+17589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+17589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+17590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+18584 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

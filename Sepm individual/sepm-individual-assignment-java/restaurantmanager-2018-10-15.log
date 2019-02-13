@@ -1,0 +1,443 @@
+571  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1406 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1922 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3159 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4968 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+566  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1170 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1634 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2755 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4535 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+578  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1226 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3030 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4455 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+724  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1852 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1853 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3085 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+3971 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+438  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1480 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1482 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2594 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4783 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+368  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1572 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2602 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+396  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+988  [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1341 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1342 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2436 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+10257 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+37449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+523  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1637 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2646 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5472 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+479  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1179 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1600 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1601 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2705 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+6287 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+478  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1173 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1551 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2609 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+394  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1193 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1770 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1771 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2793 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4699 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+502  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1720 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1723 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2983 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4999 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+429  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1591 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1594 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2890 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4573 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+452  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1519 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2585 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+426  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1453 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1454 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2678 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4235 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+461  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1654 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2794 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4209 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+456  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1071 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1487 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1489 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2716 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4160 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+6552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+465  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1223 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1705 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1707 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3101 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4777 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+461  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1121 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1511 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2889 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4352 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+493  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1236 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1612 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1613 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2830 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5364 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+7743 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+7744 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+8953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+11107 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+502  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1195 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1639 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1640 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2790 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+386  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1121 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1625 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1626 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2788 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+7527 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+9523 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+389  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1704 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2750 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4427 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+4437 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+4439 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+4439 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+11934 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+504  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2903 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4583 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+4590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+4592 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+4592 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+416  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+993  [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1379 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1380 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2570 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+3876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+3884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+3886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+3887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+12537 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+484  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1178 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2832 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+6997 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+7004 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+7006 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+7007 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+10800 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+10804 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+10805 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+10805 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+15354 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+15358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+15358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+15358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+22646 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+429  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1054 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1544 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1545 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2719 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+7272 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+17637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.ProductServiceImpl - Deleting more products[Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, dateOfCreation=2017-07-07 17:17:17.0, pid=3, category='Main dish', tax='10%', edit_date=2018-10-05 00:00:00.0, isProductDeleted=false}, Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, dateOfCreation=2018-08-08 18:18:18.0, pid=4, category='Starter', tax='20%', edit_date=2018-12-12 00:00:00.0, isProductDeleted=false}]
+17687 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is going to be deleted Product{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, dateOfCreation=2017-07-07 17:17:17.0, pid=3, category='Main dish', tax='10%', edit_date=2018-10-05 00:00:00.0, isProductDeleted=false}
+17690 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product deleted from dbProduct{name='Hamburger', description='Mit pommes und salat', nettoPrice=10, dateOfCreation=2017-07-07 17:17:17.0, pid=3, category='Main dish', tax='10%', edit_date=2018-10-05 00:00:00.0, isProductDeleted=false}
+17691 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is going to be deleted Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, dateOfCreation=2018-08-08 18:18:18.0, pid=4, category='Starter', tax='20%', edit_date=2018-12-12 00:00:00.0, isProductDeleted=false}
+17692 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product deleted from dbProduct{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, dateOfCreation=2018-08-08 18:18:18.0, pid=4, category='Starter', tax='20%', edit_date=2018-12-12 00:00:00.0, isProductDeleted=false}
+17692 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.ProductServiceImpl - Selected products are deleted successfully
+17692 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+17693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+17695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product deleted!
+32856 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+32865 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+32867 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+32867 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+37144 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+37148 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+37148 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+37148 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+40597 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+43577 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+43584 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+53317 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+502  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1164 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1574 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1575 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2824 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5513 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+5524 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+5526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+5526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+7901 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+7905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+7905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+7905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+11035 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+11042 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+11042 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+11043 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+13149 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+473  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1742 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1742 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2829 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5466 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+5476 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+5478 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+5478 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+8761 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+8765 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+8766 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+8766 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+10786 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+445  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1583 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1584 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2821 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4258 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+18642 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+18652 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+18653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+18654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+20966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+361  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1012 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1470 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1471 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2689 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4440 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+499  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1181 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1978 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3535 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5041 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+12364 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+393  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1101 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1565 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2742 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+7627 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+387  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1107 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1673 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2919 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4589 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4618 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+12358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+12369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+12371 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+12371 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+508  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1183 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1811 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1812 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3089 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4479 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+10815 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+396  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1670 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1671 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2914 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4894 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4922 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+606  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1269 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1469 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - null
+1470 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2895 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4833 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Exit button clicked
+385  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1052 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1468 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1468 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2853 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4222 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+695  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1417 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1848 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1849 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3313 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4601 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4625 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+487  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1151 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1562 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2870 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+3993 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4023 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+24695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+24706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+24707 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.OrderDAOJDBC - Order is  loaded from DB
+24708 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+602  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1555 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2365 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+2366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+4518 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+499  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1245 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1780 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1781 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3075 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4390 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4416 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+537  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1283 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3047 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4328 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4355 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+526  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1208 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1611 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1611 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2931 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+3933 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+3957 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+11991 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+11993 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+12926 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+618  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1335 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1890 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1891 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3256 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4579 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4608 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+4845 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+4846 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+9239 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+562  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1286 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1744 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1744 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3344 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+5265 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+5292 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+12928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+639  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1279 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1935 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3230 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4678 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4704 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+579  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1595 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+2106 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3158 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+13863 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+554  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1247 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1699 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1700 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2813 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+29052 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+391  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1373 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1792 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1793 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3363 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4467 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4490 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+566  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1164 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1859 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1860 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3332 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4757 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4782 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+532  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1113 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1549 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2720 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4349 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4381 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+7080 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+530  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1199 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1697 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1698 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2939 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4379 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+13772 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+497  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1069 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1566 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1567 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2699 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4536 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+487  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1111 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1616 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+1617 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2773 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+4226 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.ProductDAOJDBC - Product is  loaded from DB
+91060 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

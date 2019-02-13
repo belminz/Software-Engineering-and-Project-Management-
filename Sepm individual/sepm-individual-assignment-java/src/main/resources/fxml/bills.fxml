@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="562.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.ac.tuwien.sepm.assignment.individual.restaurant.ui.BillsController">
+    <children>
+        <TableView fx:id="billsTable" layoutX="39.0" layoutY="13.0" onMousePressed="#editBill" prefHeight="329.0" prefWidth="479.0">
+            <columns>
+                <TableColumn fx:id="tableNumber" prefWidth="221.0" text="Table number" />
+                <TableColumn fx:id="billDate" prefWidth="256.0" text="Bill date" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>

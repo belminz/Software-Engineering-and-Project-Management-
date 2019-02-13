@@ -1,0 +1,1425 @@
+567  [at.ac.tuwien.sepm.assignment.individual.application.MainApplication.main()] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1712 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2364 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2376 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3540 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+6945 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+6946 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+6947 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+6947 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+6957 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+7583 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+7585 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+7587 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+11926 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+11928 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+11929 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+11929 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+11931 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+12832 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+12835 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+12839 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+16152 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+16153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+16154 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+16155 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+16156 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+18809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+18810 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+18812 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+23258 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+23259 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+23260 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+23261 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+23262 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+24073 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+24075 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+24077 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+28652 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+28653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+28654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+28654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+28655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+29685 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+29686 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+29688 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+31541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.restaurant.util.DBUtil - Connection closed
+31541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+859  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1924 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2804 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2806 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+5110 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+8125 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.restaurant.util.DBUtil - Connection closed
+8126 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+238  [at.ac.tuwien.sepm.assignment.individual.application.MainApplication.main()] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+929  [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1287 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1287 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2226 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+8882 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+8886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+8887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+8887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+8900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+10388 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+10390 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+10392 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+17223 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+17224 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+17225 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+17225 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+17226 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+19396 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+19398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+19399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+24841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+24842 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+24842 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+24843 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+24845 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+25837 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+25838 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+25840 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+28450 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+28452 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+28452 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+28452 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+28453 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+29200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+29201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+29203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+32048 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+33545 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Deleting more products[Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-08-08T18:18:18, pid=4, category='Starter', tax='20%', edit_date=2018-12-12T15:12:16, isProductDeleted=false, amount=null}]
+33568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-08-08T18:18:18, pid=4, category='Starter', tax='20%', edit_date=2018-12-12T15:12:16, isProductDeleted=false, amount=null}
+33571 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Chickenburger', description='Mit ketchup,mayo,salat', nettoPrice=4, bruttoPrice=4.8, timeOfCreation=2018-08-08T18:18:18, pid=4, category='Starter', tax='20%', edit_date=2018-12-12T15:12:16, isProductDeleted=false, amount=null}
+33571 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Selected products are deleted successfully{}
+33571 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+33572 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+33573 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product deleted!
+36441 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+36445 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+36446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+36446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+36447 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+37803 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+37804 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+37805 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+42764 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+42765 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+42765 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+42766 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+42767 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+43719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+43720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+43721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+47346 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+47367 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+47367 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+47368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+47369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+47369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+47369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+49298 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+49421 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+50899 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+51014 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+53354 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+53357 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+53357 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+53357 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+53358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+53358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+53358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+53358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+53358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+53358 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+53359 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+53359 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+53359 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+53359 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+54453 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Selected table is not free.
+54453 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+56166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+56166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+56166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+56166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+56167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+56167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+56167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+56168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+56168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+56168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+56168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+56168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+56168 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+56169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+56169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Saving order:Order{orderId=null, tableNumber=11, timeOfCreation=null, status='open', billDate=2018-10-29T11:38:22.503355, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=1, orderId=null, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=2}]}
+56209 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=11, timeOfCreation=null, status='open', billDate=2018-10-29T11:38:22.503355, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=1, orderId=null, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=2}]}
+56211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=11, timeOfCreation=null, status='open', billDate=2018-10-29T11:38:22.503355, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=1, orderId=null, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=2}]}
+56211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order is saved:Order{orderId=7, tableNumber=11, timeOfCreation=null, status='open', billDate=2018-10-29T11:38:22.503355, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=1, orderId=null, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=2}]}
+56211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}
+56211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}
+56213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}
+56213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}
+56214 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}
+56214 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}
+56215 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}
+56215 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}
+57397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order saved to OrderTable successfully
+57397 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+58109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Back button clicked
+58879 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+58884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+58884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+58884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+58884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+58885 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+58885 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+58885 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+58885 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+58885 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+58886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+58886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+58886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+58886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+58886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+58886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+58887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+58887 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+59966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+59977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+59977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+59977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+59977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+59977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+59978 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+62395 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+65692 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=7, tableNumber=11, timeOfCreation=2018-10-29T11:38:22.546876, status='billed', billDate=2018-10-29T11:38:32.029399, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}]}
+65693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=7, tableNumber=11, timeOfCreation=2018-10-29T11:38:22.546876, status='billed', billDate=2018-10-29T11:38:32.029399, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}]}
+65693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order billed
+65693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=7, tableNumber=11, timeOfCreation=2018-10-29T11:38:22.546876, status='billed', billDate=2018-10-29T11:38:32.029399, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}]}
+65693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=7, tableNumber=11, timeOfCreation=2018-10-29T11:38:22.546876, status='billed', billDate=2018-10-29T11:38:32.029399, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}]}
+65694 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=7, tableNumber=11, timeOfCreation=2018-10-29T11:38:22.546876, status='billed', billDate=2018-10-29T11:38:32.029399, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}]}
+65694 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+65694 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}
+65695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}
+65695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=7, pid=1, orderId=7, name='Wiener Snitzel', bruttoPrice=12.0, amount=2}
+65696 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}
+65696 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}
+65696 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=2}
+67104 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+67109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+67109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+67109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+67110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+67110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+67110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+67111 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+67111 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+67112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+67112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+67112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+67112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+67112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+67112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+74011 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+74019 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+74020 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+74020 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+74020 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+74020 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+74021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+74021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+74021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+74021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+76284 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+76295 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+76295 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+76297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+76297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+76298 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+76299 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+76299 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+76299 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+76300 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+76300 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+76301 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+137929 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+137936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+137936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+137936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+137936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+137936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+137937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+137937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+137937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+139271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+139410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+141210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+141210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+141210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+141210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+141211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+141211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+141211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+141211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+141211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+141212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+141212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+141212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+141212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+141212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+141212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Saving order:Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T11:39:47.547471, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+141212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T11:39:47.547471, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+141213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=8, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T11:39:47.547471, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+141213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order is saved:Order{orderId=8, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T11:39:47.547471, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=5, orderId=null, name='Salat', bruttoPrice=2.2, amount=2}]}
+141213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}
+141213 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}
+141214 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}
+141214 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}
+141600 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order saved to OrderTable successfully
+141601 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+142058 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Back button clicked
+143457 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+143460 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+143460 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+143460 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+143460 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+143461 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+143461 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+143461 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+143462 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+143462 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+143462 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+143462 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+143462 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+143485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+143486 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+143486 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+143486 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+143486 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+144499 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+144506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+144506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+144506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+144506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+144506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+144507 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+144507 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+144507 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+145701 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+146108 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=8, tableNumber=12, timeOfCreation=2018-10-29T11:39:47.549962, status='billed', billDate=2018-10-29T11:39:52.445495, payMethod='cash', billNumber=3, productsToBeAdded=[OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}]}
+146109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=8, tableNumber=12, timeOfCreation=2018-10-29T11:39:47.549962, status='billed', billDate=2018-10-29T11:39:52.445495, payMethod='cash', billNumber=3, productsToBeAdded=[OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}]}
+146109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order billed
+146109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=8, tableNumber=12, timeOfCreation=2018-10-29T11:39:47.549962, status='billed', billDate=2018-10-29T11:39:52.445495, payMethod='cash', billNumber=3, productsToBeAdded=[OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}]}
+146109 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=8, tableNumber=12, timeOfCreation=2018-10-29T11:39:47.549962, status='billed', billDate=2018-10-29T11:39:52.445495, payMethod='cash', billNumber=3, productsToBeAdded=[OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}]}
+146110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=8, tableNumber=12, timeOfCreation=2018-10-29T11:39:47.549962, status='billed', billDate=2018-10-29T11:39:52.445495, payMethod='cash', billNumber=3, productsToBeAdded=[OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}]}
+146110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+146110 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}
+146111 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}
+146111 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=9, pid=5, orderId=8, name='Salat', bruttoPrice=2.2, amount=2}
+146309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+146309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+146309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+146309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+146309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+146309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+146310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+146310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+146310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+146310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+146310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+146310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+146310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+146311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+146311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+147916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+147919 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+147919 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+147919 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+147920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+147920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+147920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+147920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+147920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+147920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+147921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+147921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+149196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+149202 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+149203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+149203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+149203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+149204 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+149204 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+149205 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+166753 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+181312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+181313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener cehaja', description='Mit allem', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-29T11:40:27.650221, pid=1, category='Dessert', tax='20%', edit_date=2018-10-29T11:40:27.650255, isProductDeleted=false, amount=null}
+181314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener cehaja', description='Mit allem', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-29T11:40:27.650221, pid=1, category='Dessert', tax='20%', edit_date=2018-10-29T11:40:27.650255, isProductDeleted=false, amount=null}
+181314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+181314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+181314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+181315 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+183763 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+190546 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+190548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+190789 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.restaurant.util.DBUtil - Connection closed
+190789 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+879  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2881 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2882 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+5075 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+9431 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.restaurant.util.DBUtil - Connection closed
+9431 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+509  [pool-1-thread-5] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+535  [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+535  [pool-1-thread-5] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+569  [pool-1-thread-6] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+537  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=10, pid=2, orderId=2, name='Wiener Snitzel', bruttoPrice=5.0, amount=2}
+570  [pool-1-thread-6] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=1, pid=null, orderId=null, name='pommes', bruttoPrice=5.0, amount=1}
+604  [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+605  [pool-1-thread-3] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: null
+606  [pool-1-thread-3] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Unable to create new ordered product in database {}, sql exception.
+606  [pool-1-thread-6] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Unable to create new ordered product in database {}, sql exception.
+634  [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+633  [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+639  [pool-1-thread-6] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+646  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=2, orderId=2, name='Wiener Snitzel', bruttoPrice=5.0, amount=2}
+647  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+660  [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+683  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+683  [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+2666 [pool-1-thread-1] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+4671 [pool-1-thread-1] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+6687 [pool-1-thread-8] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+8693 [pool-1-thread-7] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+10698 [pool-1-thread-9] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+12701 [pool-1-thread-13] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+14709 [pool-1-thread-12] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+16713 [pool-1-thread-10] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+18715 [pool-1-thread-14] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+20722 [pool-1-thread-11] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+22727 [pool-1-thread-15] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+24729 [pool-1-thread-11] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+26732 [pool-1-thread-14] ERROR a.a.t.s.a.i.restaurant.util.DBUtil - Timeout trying to lock table "ORDEREDPRODUCTS"; SQL statement:
+
+DROP TABLE IF EXISTS OrderedProducts [50200-197]
+516  [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+541  [pool-1-thread-6] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+576  [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+577  [pool-1-thread-3] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: null
+589  [pool-1-thread-3] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Unable to create new ordered product in database {}, sql exception.
+603  [pool-1-thread-5] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+543  [pool-1-thread-6] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=1, pid=null, orderId=null, name='pommes', bruttoPrice=5.0, amount=1}
+607  [pool-1-thread-6] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Unable to create new ordered product in database {}, sql exception.
+638  [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+639  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=10, pid=2, orderId=2, name='Wiener Snitzel', bruttoPrice=5.0, amount=2}
+672  [pool-1-thread-1] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+672  [pool-1-thread-1] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB null
+675  [pool-1-thread-1] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - SQL Exception while updating Order
+678  [pool-1-thread-1] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+680  [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+687  [pool-1-thread-5] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+687  [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+687  [pool-1-thread-6] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+701  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=2, orderId=2, name='Wiener Snitzel', bruttoPrice=5.0, amount=2}
+701  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+731  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+731  [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+742  [pool-1-thread-14] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+742  [pool-1-thread-7] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+742  [pool-1-thread-9] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+742  [pool-1-thread-8] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+742  [pool-1-thread-10] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+742  [pool-1-thread-15] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+742  [pool-1-thread-7] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: null
+743  [pool-1-thread-12] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+742  [pool-1-thread-11] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+743  [pool-1-thread-13] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+743  [pool-1-thread-7] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Unable to create new order in database, sql exception.
+743  [pool-1-thread-13] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB null
+743  [pool-1-thread-7] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+744  [pool-1-thread-13] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - SQL Exception while updating Order
+744  [pool-1-thread-13] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+759  [pool-1-thread-12] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=null, timeOfCreation=2018-10-29T11:55:28.668590, status='open', billDate=2018-10-29T11:55:28.670157, payMethod='null', billNumber=null, productsToBeAdded=[]}
+759  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667882, status='open', billDate=2018-10-29T11:55:28.670781, payMethod='null', billNumber=null, productsToBeAdded=[]}
+822  [pool-1-thread-12] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Unable to create new order in database, sql exception.
+759  [pool-1-thread-8] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.668506, status='open', billDate=2018-10-29T11:55:28.670781, payMethod='null', billNumber=null, productsToBeAdded=[]}
+823  [pool-1-thread-12] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+759  [pool-1-thread-11] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=101, timeOfCreation=2018-10-29T11:55:28.669123, status='closed', billDate=2018-10-29T11:55:28.670076, payMethod='null', billNumber=null, productsToBeAdded=[]}
+760  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667838, status='open', billDate=2018-10-29T11:55:28.671167, payMethod='null', billNumber=null, productsToBeAdded=[]}
+760  [pool-1-thread-9] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=-101, timeOfCreation=2018-10-29T11:55:28.668837, status='open', billDate=2018-10-29T11:55:28.671265, payMethod='null', billNumber=null, productsToBeAdded=[]}
+759  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667838, status='open', billDate=2018-10-29T11:55:28.670077, payMethod='null', billNumber=null, productsToBeAdded=[]}
+824  [pool-1-thread-9] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Table number <0
+829  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667882, status='open', billDate=2018-10-29T11:55:28.670781, payMethod='null', billNumber=null, productsToBeAdded=[]}
+829  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=7, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667882, status='billed', billDate=2018-10-29T11:55:28.670781, payMethod='null', billNumber=501, productsToBeAdded=[]}
+830  [pool-1-thread-9] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+831  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=8, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667838, status='open', billDate=2018-10-29T11:55:28.671167, payMethod='null', billNumber=null, productsToBeAdded=[]}
+831  [pool-1-thread-8] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=9, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.668506, status='open', billDate=2018-10-29T11:55:28.670781, payMethod='null', billNumber=null, productsToBeAdded=[]}
+831  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=8, tableNumber=101, timeOfCreation=2018-10-29T11:55:28.667838, status='open', billDate=2018-10-29T11:55:28.671167, payMethod='null', billNumber=null, productsToBeAdded=[]}
+831  [pool-1-thread-8] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=9, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.668506, status='open', billDate=2018-10-29T11:55:28.670781, payMethod='null', billNumber=null, productsToBeAdded=[]}
+831  [pool-1-thread-11] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Unable to create new order in database, sql exception.
+831  [pool-1-thread-11] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+832  [pool-1-thread-8] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - SQL EXCEPTION while billing order
+832  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=11, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667838, status='open', billDate=2018-10-29T11:55:28.670077, payMethod='null', billNumber=null, productsToBeAdded=[]}
+833  [pool-1-thread-8] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+833  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+833  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=8, tableNumber=101, timeOfCreation=2018-10-29T11:55:28.667838, status='open', billDate=2018-10-29T11:55:28.671167, payMethod='null', billNumber=null, productsToBeAdded=[]}
+834  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+834  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=7, tableNumber=10, timeOfCreation=2018-10-29T11:55:28.667882, status='billed', billDate=2018-10-29T11:55:28.670781, payMethod='null', billNumber=501, productsToBeAdded=[]}
+835  [pool-1-thread-14] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+835  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+835  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+836  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+836  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+836  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+836  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+837  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+837  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+837  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+837  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+838  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+838  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+838  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+838  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+839  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+839  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+839  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+839  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+840  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+840  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+840  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+840  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+840  [pool-1-thread-15] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+840  [pool-1-thread-10] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+851  [pool-1-thread-16] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+851  [pool-1-thread-17] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+851  [pool-1-thread-25] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+851  [pool-1-thread-33] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+851  [pool-1-thread-23] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+851  [pool-1-thread-18] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+851  [pool-1-thread-26] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+851  [pool-1-thread-19] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+852  [pool-1-thread-21] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+852  [pool-1-thread-20] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+852  [pool-1-thread-19] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: null
+851  [pool-1-thread-24] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+852  [pool-1-thread-27] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+852  [pool-1-thread-24] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB null
+852  [pool-1-thread-17] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+852  [pool-1-thread-24] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+851  [pool-1-thread-30] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+853  [pool-1-thread-24] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+853  [pool-1-thread-30] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted null
+853  [pool-1-thread-30] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exeption while deleting Products
+851  [pool-1-thread-22] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+853  [pool-1-thread-29] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+854  [pool-1-thread-30] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+854  [pool-1-thread-31] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+852  [pool-1-thread-28] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+856  [pool-1-thread-32] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+858  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+862  [pool-1-thread-23] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+864  [pool-1-thread-19] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:28)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createProductWithNull(ProductDAOTest.java:58)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+865  [pool-1-thread-19] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+852  [pool-1-thread-27] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+852  [pool-1-thread-21] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Vienna', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+855  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.766038, pid=null, category='Main dish', tax='10%', edit_date=2018-10-29T11:55:28.766068, isProductDeleted=false, amount=null}
+854  [pool-1-thread-22] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Vienna', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+854  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.765603, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765640, isProductDeleted=false, amount=null}
+864  [pool-1-thread-33] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='101%', edit_date=null, isProductDeleted=false, amount=null}
+856  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.767409, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.767439, isProductDeleted=false, amount=null}
+904  [pool-1-thread-21] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidCategory(ProductDAOTest.java:124)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+904  [pool-1-thread-27] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.updateProductWithInvalidInput(ProductDAOTest.java:171)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+904  [pool-1-thread-33] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+905  [pool-1-thread-21] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+854  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.765046, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765093, isProductDeleted=false, amount=null}
+855  [pool-1-thread-16] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='100%', edit_date=null, isProductDeleted=false, amount=null}
+858  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.767367, pid=null, category='Main dish', tax='10%', edit_date=2018-10-29T11:55:28.767409, isProductDeleted=false, amount=null}
+855  [pool-1-thread-28] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='null', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+860  [pool-1-thread-18] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='null', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+854  [pool-1-thread-29] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='this is description', nettoPrice=-1, bruttoPrice=-1.1, timeOfCreation=null, pid=null, category='Main dish', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+908  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.767409, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.767439, isProductDeleted=false, amount=null}
+908  [pool-1-thread-27] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+909  [pool-1-thread-33] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+909  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.766038, pid=7, category='Main dish', tax='10%', edit_date=2018-10-29T11:55:28.766068, isProductDeleted=false, amount=null}
+909  [pool-1-thread-22] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+909  [pool-1-thread-22] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+911  [pool-1-thread-28] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+910  [pool-1-thread-18] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithCategoryNull(ProductDAOTest.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+911  [pool-1-thread-28] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+911  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+911  [pool-1-thread-18] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+911  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.766038, pid=7, category='Main dish', tax='10%', edit_date=2018-10-29T11:55:28.766068, isProductDeleted=false, amount=null}
+911  [pool-1-thread-29] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidNettoPrice(ProductDAOTest.java:65)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+912  [pool-1-thread-29] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+912  [pool-1-thread-16] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidTax(ProductDAOTest.java:148)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+912  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.765603, pid=8, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765640, isProductDeleted=false, amount=null}
+912  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+912  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.823865, pid=8, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765640, isProductDeleted=false, amount=null}
+912  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.767367, pid=9, category='Main dish', tax='10%', edit_date=2018-10-29T11:55:28.767409, isProductDeleted=false, amount=null}
+913  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.767409, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.767439, isProductDeleted=false, amount=null}
+913  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.766038, pid=10, category='Main dish', tax='10%', edit_date=2018-10-29T11:55:28.766068, isProductDeleted=false, amount=null}
+913  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.823865, pid=8, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765640, isProductDeleted=false, amount=null}
+914  [pool-1-thread-16] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+914  [pool-1-thread-25] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+914  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.765046, pid=11, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765093, isProductDeleted=false, amount=null}
+914  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.767409, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.767439, isProductDeleted=false, amount=null}
+914  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel new edition', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.765046, pid=11, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765093, isProductDeleted=false, amount=null}
+917  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+917  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+917  [pool-1-thread-26] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+917  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener Schnitzel new edition', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T11:55:28.765046, pid=11, category='Starter', tax='10%', edit_date=2018-10-29T11:55:28.765093, isProductDeleted=false, amount=null}
+918  [pool-1-thread-32] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+919  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+919  [pool-1-thread-31] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+919  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+919  [pool-1-thread-20] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+722  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2661 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+4284 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+10655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+14819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+14830 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='jefj', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-29T11:57:10.172977, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T11:57:10.175170, isProductDeleted=false, amount=null}
+14867 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='jefj', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-29T11:57:10.172977, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T11:57:10.175170, isProductDeleted=false, amount=null}
+14870 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='jefj', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-29T11:57:10.172977, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T11:57:10.175170, isProductDeleted=false, amount=null}
+14871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='jefj', description='', nettoPrice=12, bruttoPrice=13.2, timeOfCreation=2018-10-29T11:57:10.172977, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T11:57:10.175170, isProductDeleted=false, amount=null}
+14871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Successfully added!
+14871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+14873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+502  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1459 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2040 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2041 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3368 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+15614 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+17063 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+17074 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Snitzel', description='Mit kartofel', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-29T11:58:34.374743, pid=1, category='Main dish', tax='20%', edit_date=2018-10-29T11:58:34.376856, isProductDeleted=false, amount=null}
+17117 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener Snitzel', description='Mit kartofel', nettoPrice=10, bruttoPrice=12.0, timeOfCreation=2018-10-29T11:58:34.374743, pid=1, category='Main dish', tax='20%', edit_date=2018-10-29T11:58:34.376856, isProductDeleted=false, amount=null}
+17118 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+17118 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+17118 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+17120 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+444  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1303 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1965 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3162 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+403  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1246 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1818 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3129 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+494  [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+527  [pool-1-thread-5] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+555  [pool-1-thread-6] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+556  [pool-1-thread-5] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+498  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=10, pid=2, orderId=2, name='Wiener Snitzel', bruttoPrice=5.0, amount=2}
+556  [pool-1-thread-6] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=1, pid=null, orderId=null, name='pommes', bruttoPrice=5.0, amount=1}
+584  [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+603  [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+604  [pool-1-thread-3] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: null
+604  [pool-1-thread-3] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Unable to create new ordered product in database {}, sql exception.
+621  [pool-1-thread-1] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection created!
+622  [pool-1-thread-1] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB null
+625  [pool-1-thread-1] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - SQL Exception while updating Order
+629  [pool-1-thread-1] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+629  [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+629  [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+644  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=2, orderId=2, name='Wiener Snitzel', bruttoPrice=5.0, amount=2}
+645  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+646  [pool-1-thread-6] ERROR a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Unable to create new ordered product in database {}, sql exception.
+647  [pool-1-thread-6] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+666  [pool-1-thread-4] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+667  [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.OrderedProductDAOTest - Connection rollback!
+683  [pool-1-thread-7] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-11] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-9] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-14] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-15] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-7] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: null
+683  [pool-1-thread-10] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-8] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-12] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+683  [pool-1-thread-13] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection created!
+684  [pool-1-thread-13] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB null
+684  [pool-1-thread-13] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - SQL Exception while updating Order
+685  [pool-1-thread-13] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+689  [pool-1-thread-7] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Unable to create new order in database, sql exception.
+689  [pool-1-thread-7] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+702  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.147811, status='open', billDate=2018-10-29T13:44:53.150187, payMethod='null', billNumber=null, productsToBeAdded=[]}
+702  [pool-1-thread-9] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=-101, timeOfCreation=2018-10-29T13:44:53.147916, status='open', billDate=2018-10-29T13:44:53.150023, payMethod='null', billNumber=null, productsToBeAdded=[]}
+702  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148136, status='open', billDate=2018-10-29T13:44:53.150195, payMethod='null', billNumber=null, productsToBeAdded=[]}
+702  [pool-1-thread-11] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=101, timeOfCreation=2018-10-29T13:44:53.147785, status='closed', billDate=2018-10-29T13:44:53.150022, payMethod='null', billNumber=null, productsToBeAdded=[]}
+702  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148757, status='open', billDate=2018-10-29T13:44:53.150022, payMethod='null', billNumber=null, productsToBeAdded=[]}
+703  [pool-1-thread-12] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=null, timeOfCreation=2018-10-29T13:44:53.148198, status='open', billDate=2018-10-29T13:44:53.151038, payMethod='null', billNumber=null, productsToBeAdded=[]}
+750  [pool-1-thread-9] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Table number <0
+702  [pool-1-thread-8] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148573, status='open', billDate=2018-10-29T13:44:53.150362, payMethod='null', billNumber=null, productsToBeAdded=[]}
+751  [pool-1-thread-12] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Unable to create new order in database, sql exception.
+751  [pool-1-thread-9] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+757  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.147811, status='open', billDate=2018-10-29T13:44:53.150187, payMethod='null', billNumber=null, productsToBeAdded=[]}
+758  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+760  [pool-1-thread-12] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+761  [pool-1-thread-11] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Unable to create new order in database, sql exception.
+762  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=9, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148757, status='open', billDate=2018-10-29T13:44:53.150022, payMethod='null', billNumber=null, productsToBeAdded=[]}
+763  [pool-1-thread-11] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+763  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=9, tableNumber=101, timeOfCreation=2018-10-29T13:44:53.148757, status='open', billDate=2018-10-29T13:44:53.150022, payMethod='null', billNumber=null, productsToBeAdded=[]}
+764  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=10, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148136, status='open', billDate=2018-10-29T13:44:53.150195, payMethod='null', billNumber=null, productsToBeAdded=[]}
+764  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=10, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148136, status='billed', billDate=2018-10-29T13:44:53.150195, payMethod='null', billNumber=501, productsToBeAdded=[]}
+764  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+765  [pool-1-thread-8] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=11, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148573, status='open', billDate=2018-10-29T13:44:53.150362, payMethod='null', billNumber=null, productsToBeAdded=[]}
+765  [pool-1-thread-8] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=11, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148573, status='open', billDate=2018-10-29T13:44:53.150362, payMethod='null', billNumber=null, productsToBeAdded=[]}
+767  [pool-1-thread-14] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=10, tableNumber=10, timeOfCreation=2018-10-29T13:44:53.148136, status='billed', billDate=2018-10-29T13:44:53.150195, payMethod='null', billNumber=501, productsToBeAdded=[]}
+768  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=9, tableNumber=101, timeOfCreation=2018-10-29T13:44:53.148757, status='open', billDate=2018-10-29T13:44:53.150022, payMethod='null', billNumber=null, productsToBeAdded=[]}
+769  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+769  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+769  [pool-1-thread-14] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+769  [pool-1-thread-8] ERROR a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - SQL EXCEPTION while billing order
+771  [pool-1-thread-8] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+769  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+772  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+772  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+771  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+774  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+775  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+776  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+776  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+777  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+777  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+778  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+778  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+778  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+779  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+779  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+779  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+779  [pool-1-thread-10] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+780  [pool-1-thread-10] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+778  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+781  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+781  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+782  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+782  [pool-1-thread-15] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+782  [pool-1-thread-15] DEBUG a.a.t.s.a.i.restaurant.OrderDAOTest - Connection rollback!
+793  [pool-1-thread-21] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+793  [pool-1-thread-16] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-20] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-24] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-25] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+793  [pool-1-thread-22] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-26] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+793  [pool-1-thread-33] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-28] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-23] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-29] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-30] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-31] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+794  [pool-1-thread-24] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB null
+794  [pool-1-thread-32] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+795  [pool-1-thread-23] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+794  [pool-1-thread-27] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+795  [pool-1-thread-24] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+796  [pool-1-thread-24] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+794  [pool-1-thread-30] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted null
+797  [pool-1-thread-30] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exeption while deleting Products
+797  [pool-1-thread-30] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+822  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+822  [pool-1-thread-18] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+845  [pool-1-thread-19] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+846  [pool-1-thread-19] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: null
+847  [pool-1-thread-17] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection created!
+847  [pool-1-thread-17] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+851  [pool-1-thread-19] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:28)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createProductWithNull(ProductDAOTest.java:58)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+852  [pool-1-thread-19] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+796  [pool-1-thread-33] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='101%', edit_date=null, isProductDeleted=false, amount=null}
+795  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243217, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.243273, isProductDeleted=false, amount=null}
+795  [pool-1-thread-28] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='null', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+823  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.244971, pid=null, category='Main dish', tax='10%', edit_date=2018-10-29T13:44:53.245008, isProductDeleted=false, amount=null}
+797  [pool-1-thread-21] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Vienna', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+895  [pool-1-thread-33] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+895  [pool-1-thread-33] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+795  [pool-1-thread-22] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Vienna', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+796  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.244637, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.244682, isProductDeleted=false, amount=null}
+797  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.245175, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.245204, isProductDeleted=false, amount=null}
+823  [pool-1-thread-18] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='null', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+795  [pool-1-thread-27] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+796  [pool-1-thread-29] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='this is description', nettoPrice=-1, bruttoPrice=-1.1, timeOfCreation=null, pid=null, category='Main dish', tax='10%', edit_date=null, isProductDeleted=false, amount=null}
+795  [pool-1-thread-16] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=null, pid=null, category='Starter', tax='100%', edit_date=null, isProductDeleted=false, amount=null}
+795  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243516, pid=null, category='Main dish', tax='10%', edit_date=2018-10-29T13:44:53.243544, isProductDeleted=false, amount=null}
+898  [pool-1-thread-21] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidCategory(ProductDAOTest.java:124)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+898  [pool-1-thread-21] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+899  [pool-1-thread-28] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+900  [pool-1-thread-28] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+904  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243217, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.243273, isProductDeleted=false, amount=null}
+905  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243516, pid=7, category='Main dish', tax='10%', edit_date=2018-10-29T13:44:53.243544, isProductDeleted=false, amount=null}
+906  [pool-1-thread-29] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidNettoPrice(ProductDAOTest.java:65)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+906  [pool-1-thread-16] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithInvalidTax(ProductDAOTest.java:148)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+907  [pool-1-thread-27] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.updateProductWithInvalidInput(ProductDAOTest.java:171)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+907  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.245175, pid=8, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.245204, isProductDeleted=false, amount=null}
+907  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.355900, pid=8, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.245204, isProductDeleted=false, amount=null}
+912  [pool-1-thread-27] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+913  [pool-1-thread-25] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.355900, pid=8, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.245204, isProductDeleted=false, amount=null}
+913  [pool-1-thread-29] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+913  [pool-1-thread-16] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+913  [pool-1-thread-25] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+916  [pool-1-thread-18] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Unable to create new product in database, sql exception.
+java.lang.NullPointerException: null
+	at java.sql/java.sql.Timestamp.valueOf(Timestamp.java:498)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.dao.impl.ProductDAOJDBC.create(ProductDAOJDBC.java:31)
+	at at.ac.tuwien.sepm.assignment.individual.restaurant.ProductDAOTest.createWithCategoryNull(ProductDAOTest.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.apache.maven.surefire.junitcore.pc.Scheduler$1.run(Scheduler.java:410)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:514)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1135)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+917  [pool-1-thread-18] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+919  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.244637, pid=9, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.244682, isProductDeleted=false, amount=null}
+922  [pool-1-thread-22] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL Exception while updating Products
+924  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.244971, pid=10, category='Main dish', tax='10%', edit_date=2018-10-29T13:44:53.245008, isProductDeleted=false, amount=null}
+927  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+930  [pool-1-thread-22] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+930  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243217, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.243273, isProductDeleted=false, amount=null}
+927  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+930  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243516, pid=7, category='Main dish', tax='10%', edit_date=2018-10-29T13:44:53.243544, isProductDeleted=false, amount=null}
+931  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Wiener Schnitzel', description='null', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243516, pid=11, category='Main dish', tax='10%', edit_date=2018-10-29T13:44:53.243544, isProductDeleted=false, amount=null}
+932  [pool-1-thread-26] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+932  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='Wiener Schnitzel new edition', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.244637, pid=9, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.244682, isProductDeleted=false, amount=null}
+932  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='Wiener', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.243217, pid=6, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.243273, isProductDeleted=false, amount=null}
+932  [pool-1-thread-26] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+933  [pool-1-thread-31] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+934  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='Wiener Schnitzel new edition', description='hello wien', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:44:53.244637, pid=9, category='Starter', tax='10%', edit_date=2018-10-29T13:44:53.244682, isProductDeleted=false, amount=null}
+934  [pool-1-thread-32] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+934  [pool-1-thread-31] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+935  [pool-1-thread-32] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+936  [pool-1-thread-20] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+938  [pool-1-thread-20] DEBUG a.a.t.s.a.i.r.ProductDAOTest - Connection rollback!
+210  [at.ac.tuwien.sepm.assignment.individual.application.MainApplication.main()] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+864  [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+1196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+2142 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+17054 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On statistics clicked
+17115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+17115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+17117 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+17118 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+17119 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+38953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+55220 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+55222 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='Schnitzel', description='', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:45:49.247965, pid=null, category='Main dish', tax='10%', edit_date=2018-10-29T13:45:49.248045, isProductDeleted=false, amount=null}
+55254 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='Schnitzel', description='', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:45:49.247965, pid=null, category='Main dish', tax='10%', edit_date=2018-10-29T13:45:49.248045, isProductDeleted=false, amount=null}
+55256 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='Schnitzel', description='', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:45:49.247965, pid=6, category='Main dish', tax='10%', edit_date=2018-10-29T13:45:49.248045, isProductDeleted=false, amount=null}
+55256 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='Schnitzel', description='', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-10-29T13:45:49.247965, pid=6, category='Main dish', tax='10%', edit_date=2018-10-29T13:45:49.248045, isProductDeleted=false, amount=null}
+55256 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Successfully added!
+55257 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+55258 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+56471 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+61027 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+62692 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - Name and netto have to be entered
+66765 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+67380 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - Name and netto have to be entered
+69939 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+75090 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - Category empty!
+78955 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+79813 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - tax empty
+82824 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+83273 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - Category empty!
+85084 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+85084 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='wefew', description='', nettoPrice=11, bruttoPrice=12.1, timeOfCreation=2018-10-29T13:46:19.110434, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T13:46:19.110464, isProductDeleted=false, amount=null}
+85084 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='wefew', description='', nettoPrice=11, bruttoPrice=12.1, timeOfCreation=2018-10-29T13:46:19.110434, pid=null, category='Starter', tax='10%', edit_date=2018-10-29T13:46:19.110464, isProductDeleted=false, amount=null}
+85086 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='wefew', description='', nettoPrice=11, bruttoPrice=12.1, timeOfCreation=2018-10-29T13:46:19.110434, pid=7, category='Starter', tax='10%', edit_date=2018-10-29T13:46:19.110464, isProductDeleted=false, amount=null}
+85087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='wefew', description='', nettoPrice=11, bruttoPrice=12.1, timeOfCreation=2018-10-29T13:46:19.110434, pid=7, category='Starter', tax='10%', edit_date=2018-10-29T13:46:19.110464, isProductDeleted=false, amount=null}
+85087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Successfully added!
+85087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+85089 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+134619 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Add Product clicked
+146206 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewProductController - Add product clicked
+148243 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewProductController - ERROR: Zero or negative integer value used.
+181037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+181039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+189046 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+198590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+198594 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+199908 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+225994 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+225996 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+329207 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+340515 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Add product clicked
+340516 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Updating Product to DB Product{name='hfhfh', description='null', nettoPrice=5, bruttoPrice=5.5, timeOfCreation=2018-10-29T13:50:34.542144, pid=5, category='Starter', tax='10%', edit_date=2018-10-29T13:50:34.542198, isProductDeleted=false, amount=null}
+340518 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Successfully updated to Database Product{name='hfhfh', description='null', nettoPrice=5, bruttoPrice=5.5, timeOfCreation=2018-10-29T13:50:34.542144, pid=5, category='Starter', tax='10%', edit_date=2018-10-29T13:50:34.542198, isProductDeleted=false, amount=null}
+340518 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product updated
+340518 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.DetailsProductController - Successfully added!
+340519 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+340520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+341791 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Edit Product clicked
+359253 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Deleting more products[Product{name='hfhfh', description='null', nettoPrice=5, bruttoPrice=5.5, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-10-29T13:50:34.542198, isProductDeleted=false, amount=null}]
+359253 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='hfhfh', description='null', nettoPrice=5, bruttoPrice=5.5, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-10-29T13:50:34.542198, isProductDeleted=false, amount=null}
+359254 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='hfhfh', description='null', nettoPrice=5, bruttoPrice=5.5, timeOfCreation=2018-08-08T11:11:18, pid=5, category='Starter', tax='10%', edit_date=2018-10-29T13:50:34.542198, isProductDeleted=false, amount=null}
+359254 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Selected products are deleted successfully{}
+359254 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+359255 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+368833 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+383156 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+430569 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+430578 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+430579 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+430579 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+430579 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+430579 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+430579 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+430580 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+433018 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+433026 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+433026 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+433027 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+433027 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+433028 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+433028 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+433029 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+456063 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On add new order clicked
+456070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+456070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+456070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+456070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+456070 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+456071 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+477534 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+477987 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+479271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+485874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+485875 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+485875 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+485876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+485876 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+485877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+485877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+485877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+485877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+485878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+485878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+485878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+485878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+485879 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+487880 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Selected table is not free.
+487880 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+491703 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On save to all orders clicked
+491703 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+491703 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+491704 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+491704 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+491704 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+491705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+491705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+491705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+491705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+491705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+491706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+491706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+491706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+491706 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Saving order:Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T13:53:05.729666, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=4, orderId=null, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+491741 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Create order: Order{orderId=null, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T13:53:05.729666, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=4, orderId=null, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+491743 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order successfully added to database Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T13:53:05.729666, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=4, orderId=null, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+491743 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order is saved:Order{orderId=7, tableNumber=12, timeOfCreation=null, status='open', billDate=2018-10-29T13:53:05.729666, payMethod='null', billNumber=null, productsToBeAdded=[OrderedProduct{id=null, pid=4, orderId=null, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=null, pid=2, orderId=null, name='Pommes', bruttoPrice=4.8, amount=1}]}
+491743 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}
+491743 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}
+491745 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}
+491745 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}
+491745 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Saving order:OrderedProduct{id=null, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+491745 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Create ordered product: OrderedProduct{id=null, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+491746 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Order successfully added to database OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+491746 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order is saved:OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+494446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order saved to OrderTable successfully
+494446 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.u.AddNewOrderController - Table number not correct.
+498541 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Back button clicked
+499667 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+499672 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+499672 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+499672 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+499672 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+499673 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+499673 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+499673 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+499674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+499674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+499674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+499674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+499674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+499674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+499674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+499675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+499675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+499675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+504657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Edit order clicked
+504665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+504665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+504666 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+504666 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+504666 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+504667 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+508982 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On add to order button clicked
+510497 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On delete button clicked
+510506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Product successfully removed from order table
+514065 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - On pay button clicked
+520328 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Trying to bill order Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-29T13:53:05.767955, status='billed', billDate=2018-10-29T13:53:34.354281, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+520329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully billed orderOrder{orderId=7, tableNumber=12, timeOfCreation=2018-10-29T13:53:05.767955, status='billed', billDate=2018-10-29T13:53:34.354281, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+520329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order billed
+520329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Updating order Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-29T13:53:05.767955, status='billed', billDate=2018-10-29T13:53:34.354281, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+520329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Updating Order to DB Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-29T13:53:05.767955, status='billed', billDate=2018-10-29T13:53:34.354281, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+520330 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Successfully updated to Database Order{orderId=7, tableNumber=12, timeOfCreation=2018-10-29T13:53:05.767955, status='billed', billDate=2018-10-29T13:53:34.354281, payMethod='card', billNumber=2, productsToBeAdded=[OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}, OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}]}
+520330 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Order updated
+520330 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}
+520331 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}
+520331 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=7, pid=4, orderId=7, name='Chickenburger', bruttoPrice=4.8, amount=2}
+520331 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Updating orderedProduct to DB OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+520332 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Successfully updated to Database OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+520332 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Order updated OrderedProduct{id=8, pid=2, orderId=7, name='Pommes', bruttoPrice=4.8, amount=1}
+521550 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.u.AddNewOrderController - Order successfully paid
+521550 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+521550 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+521550 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+521551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+521551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+521551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+521551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+521551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+521552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+521552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+521552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+521552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+521552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+521552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+523113 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On all bills clicked
+523115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Loading all Orders!
+523116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all Bills..
+523116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding bills....
+523116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+523116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+523116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+523116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+523117 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Bills are  loaded from DB
+523117 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - INFO: Showing all Order types.
+528658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On orders clicked
+528663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - INFO: Showing all Order types.
+528663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.OrdersController - Loading all Orders!
+528663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderServiceImpl - Finding all orders..
+528664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders...
+528664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+528664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+528664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+528664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+528665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+528665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+528665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+528665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+528665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Finding orders that are going to be payed
+528665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - OrderedProduct orderID is  loaded from DB 
+528665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.dao.impl.OrderDAOJDBC - Order is  loaded from DB
+534713 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.BillsController - Bill details clicked
+534718 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.OrderedProductServiceImpl - Finding ordered id...
+534719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - finding order id in db
+534719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.i.OrderedProductDAOJDBC - Ordered products id found
+534720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+534720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+534720 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+534721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+534721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+534721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+534721 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - finding products with the same IDs
+534722 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - ID found in DB
+602475 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+602477 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+602478 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+607680 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+607682 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+607682 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+607682 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+607689 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+608652 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+608653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+608654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+615025 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+615026 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+615026 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+615026 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+615027 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+615811 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+615812 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+615813 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+618676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+618679 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+620520 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.ui.MainController - ERROR: Zero or negative integer value used.
+620520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+620520 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+620521 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+622838 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+622839 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+622839 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+634699 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+634700 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+634700 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+634700 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+634701 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+642334 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+642334 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+642335 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+699106 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+699106 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+699107 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+699107 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+699112 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+701398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+701399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+701399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+701399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+701400 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+830653 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+830656 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+830657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+867193 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+867193 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+867194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+867194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+867196 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - SQL  Exception in searching for products
+867196 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.s.i.ProductServiceImpl - Error: Products cannot be found.
+867196 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+902141 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Search button clicked ...
+902141 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+902142 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Searching for products...
+902142 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Searching for products in Db...
+902143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Searched product/s found!
+904944 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Delete button clicked
+906536 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Deleting more products[Product{name='wefew', description='', nettoPrice=11, bruttoPrice=12.1, timeOfCreation=2018-10-29T13:46:19.110434, pid=7, category='Starter', tax='10%', edit_date=2018-10-29T13:46:19.110464, isProductDeleted=false, amount=null}]
+906537 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is going to be deleted Product{name='wefew', description='', nettoPrice=11, bruttoPrice=12.1, timeOfCreation=2018-10-29T13:46:19.110434, pid=7, category='Starter', tax='10%', edit_date=2018-10-29T13:46:19.110464, isProductDeleted=false, amount=null}
+906537 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product deleted from dbProduct{name='wefew', description='', nettoPrice=11, bruttoPrice=12.1, timeOfCreation=2018-10-29T13:46:19.110434, pid=7, category='Starter', tax='10%', edit_date=2018-10-29T13:46:19.110464, isProductDeleted=false, amount=null}
+906538 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Selected products are deleted successfully{}
+906538 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+906538 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+906539 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product deleted!
+695  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1730 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2179 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2180 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+3448 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+4952 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+4953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+4955 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.
+5274 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - On refresh clicked
+5277 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+5279 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Product table is successfully refreshed.

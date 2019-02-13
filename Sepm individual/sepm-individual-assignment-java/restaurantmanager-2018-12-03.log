@@ -1,0 +1,12 @@
+455  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1483 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+2083 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2131 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
+593  [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+1463 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - Loading all Products!
+1480 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Saving product:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-03T14:38:40.180653, pid=null, category='Main dish', tax='10%', edit_date=2018-12-03T14:38:40.182971, isProductDeleted=false, amount=null}
+1525 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Create product: Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-03T14:38:40.180653, pid=null, category='Main dish', tax='10%', edit_date=2018-12-03T14:38:40.182971, isProductDeleted=false, amount=null}
+1987 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - product successfully added to database Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-03T14:38:40.180653, pid=6, category='Main dish', tax='10%', edit_date=2018-12-03T14:38:40.182971, isProductDeleted=false, amount=null}
+1987 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.s.i.ProductServiceImpl - Product is saved:Product{name='BELMIN!!!!!', description='Hello', nettoPrice=10, bruttoPrice=11.0, timeOfCreation=2018-12-03T14:38:40.180653, pid=6, category='Main dish', tax='10%', edit_date=2018-12-03T14:38:40.182971, isProductDeleted=false, amount=null}
+2035 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.d.impl.ProductDAOJDBC - Product is  loaded from DB
+2069 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.ui.MainController - INFO: Showing all Product types.
